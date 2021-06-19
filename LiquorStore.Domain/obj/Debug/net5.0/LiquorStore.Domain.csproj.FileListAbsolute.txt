@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\LiquorStoreAsp\LiquorStore\LiquorStore.Domain\bin\Debug\net5.0\LiquorStore.Domain.deps.json
+C:\Users\HP\Desktop\LiquorStoreAsp\LiquorStore\LiquorStore.Domain\bin\Debug\net5.0\LiquorStore.Domain.dll
+C:\Users\HP\Desktop\LiquorStoreAsp\LiquorStore\LiquorStore.Domain\bin\Debug\net5.0\ref\LiquorStore.Domain.dll
+C:\Users\HP\Desktop\LiquorStoreAsp\LiquorStore\LiquorStore.Domain\bin\Debug\net5.0\LiquorStore.Domain.pdb
+C:\Users\HP\Desktop\LiquorStoreAsp\LiquorStore\LiquorStore.Domain\obj\Debug\net5.0\LiquorStore.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LiquorStoreAsp\LiquorStore\LiquorStore.Domain\obj\Debug\net5.0\LiquorStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\LiquorStoreAsp\LiquorStore\LiquorStore.Domain\obj\Debug\net5.0\LiquorStore.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\LiquorStoreAsp\LiquorStore\LiquorStore.Domain\obj\Debug\net5.0\LiquorStore.Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\LiquorStoreAsp\LiquorStore\LiquorStore.Domain\obj\Debug\net5.0\LiquorStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LiquorStoreAsp\LiquorStore\LiquorStore.Domain\obj\Debug\net5.0\LiquorStore.Domain.dll
+C:\Users\HP\Desktop\LiquorStoreAsp\LiquorStore\LiquorStore.Domain\obj\Debug\net5.0\ref\LiquorStore.Domain.dll
+C:\Users\HP\Desktop\LiquorStoreAsp\LiquorStore\LiquorStore.Domain\obj\Debug\net5.0\LiquorStore.Domain.pdb
